@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #a3e3ff;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+form {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #f39658;
+  border-radius: 5px;
+}
